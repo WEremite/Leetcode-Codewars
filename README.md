@@ -19,4 +19,4 @@ Leetcode and Codewars tasks
 
 - [x] [Contains Duplicate](https://github.com/WEremite/Leetcode-Codewars/blob/main/Leetcode/Easy/217%20Contains%20Duplicate/contains-duplicate.php)
 - [x] [Valid Anagram](https://github.com/WEremite/Leetcode-Codewars/blob/main/Leetcode/Easy/242%20Valid%20Anagram/valid-anagram.php)
-- [x] [Two Sum]()
+- [x] [Two Sum](https://github.com/WEremite/Leetcode-Codewars/blob/main/Leetcode/Easy/1%20Two%20Sum/two-sum.php)
