@@ -29,13 +29,11 @@ Follow up: What if the inputs contain Unicode characters? How would you adapt yo
 
 */
 
-function isAnagram($s, $t) {
+function isAnagram($s, $t): bool
+{
     return (count_chars($s) == count_chars($t));
 }
 
 print_r(isAnagram("anagram", "nagaram")); // true
 print_r(isAnagram("rat", "car")); // false
 print_r(isAnagram("1ab!", "!ba1")); // true
-
-
-?>

@@ -35,7 +35,8 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comple
 
 */
 
-function twoSum($nums, $target) {
+function twoSum($nums, $target): array
+{
     $answer = array();
     for ($i = 0; $i < count($nums); $i++) {
         for ($j = $i + 1; $j < count($nums); $j++) {
@@ -52,5 +53,3 @@ function twoSum($nums, $target) {
 // print_r(twoSum([3,2,4], 6)); // [1, 2]
 // print_r(twoSum([3,3], 6)); // [0, 1]
 print_r(twoSum([2,8,16,7,5,4], 20)); // [2, 5]
-
-?>

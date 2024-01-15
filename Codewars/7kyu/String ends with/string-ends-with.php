@@ -37,4 +37,3 @@ print_r(solution('abc', 'd')); // returns false
 print_r(solution('yes this will pass', '')); // returns true
 print_r(solution("abc", "abcd")); // returns false
 print_r(solution("abc\n", 'abc')); // returns false
-?>

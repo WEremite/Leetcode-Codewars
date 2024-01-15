@@ -24,9 +24,10 @@ Constraints:
     -109 <= nums[i] <= 109
 */
 
-function containsDuplicate($nums) {
+function containsDuplicate($nums): bool
+{
     $tempArr = array_count_values($nums);
-    foreach ($tempArr as $key => $value) {
+    foreach ($tempArr as $value) {
         if ($value > 1) {
             return true;
         }
@@ -36,4 +37,3 @@ function containsDuplicate($nums) {
 
 print_r(containsDuplicate([1,2,3,1])); // true
 print_r(containsDuplicate([1,2,3,4])); // false
-?>

@@ -16,11 +16,12 @@ Example
 
 */
 
-function duplicateCount($text) {
+function duplicateCount($text): int
+{
     $count = 0;
     $tempArr = count_chars(strtolower($text));
 
-    foreach ($tempArr as $key => $value) {
+    foreach ($tempArr as $value) {
         if ($value > 1) {
             $count++;
         }
@@ -31,4 +32,3 @@ function duplicateCount($text) {
 
 print_r(duplicateCount("aAbBcde"));
 
-?>

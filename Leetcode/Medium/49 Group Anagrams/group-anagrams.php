@@ -31,7 +31,8 @@ Constraints:
 
 */
 
-function groupAnagrams($strs) {
+function groupAnagrams($strs): array
+{
     $answer = array();
 
     foreach ($strs as $word) {
@@ -51,5 +52,3 @@ print_r($result4);
 $strs1 = ["eat","tea","tan","ate","nat","bat"];
 $result1 = groupAnagrams($strs1);
 print_r($result1);
-
-?>
