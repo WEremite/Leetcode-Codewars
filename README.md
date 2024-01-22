@@ -13,6 +13,21 @@ Leetcode and Codewars tasks
 
 - [x] [String Ends With](https://github.com/bipolarbearbringsbeer/LeetCode-CodeWars/blob/main/CodeWars/7kyu/String%20ends%20with/string-ends-with.php)
 
+### 8 kyu
+
+- [x] [Convert boolean values to strings]()
+- [x] [Convert Number to String]()
+- [x] [Even or Odd]()
+- [x] [Grasshopper Summation]()
+- [x] [Multiply]()
+- [x] [Opposite number]()
+- [x] [Remove First and Last Character]()
+- [x] [Return Negative]()
+- [x] [Reversed Strings]()
+- [x] [Square Sum]()
+- [x] [String repeat]()
+- [x] [Sum of positive]()
+
 ## Leetcode
 
 ### Easy
