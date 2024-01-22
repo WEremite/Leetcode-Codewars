@@ -15,18 +15,18 @@ Leetcode and Codewars tasks
 
 ### 8 kyu
 
-- [x] [Convert boolean values to strings]()
-- [x] [Convert Number to String]()
-- [x] [Even or Odd]()
-- [x] [Grasshopper Summation]()
-- [x] [Multiply]()
-- [x] [Opposite number]()
-- [x] [Remove First and Last Character]()
-- [x] [Return Negative]()
-- [x] [Reversed Strings]()
-- [x] [Square Sum]()
-- [x] [String repeat]()
-- [x] [Sum of positive]()
+- [x] [Convert boolean values to strings](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/8kyu/Convert%20Number%20to%20String/convert-number-to-string.php)
+- [x] [Convert Number to String](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/8kyu/Convert%20boolean%20values%20to%20strings/convert-boolean.php)
+- [x] [Even or Odd](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/8kyu/Even%20or%20Odd/even-or-odd.php)
+- [x] [Grasshopper Summation](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/8kyu/Grasshopper%20%20Summation/summation.php)
+- [x] [Multiply](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/8kyu/Multiply/multiply.php)
+- [x] [Opposite number](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/8kyu/Opposite%20number/opposite-number.php)
+- [x] [Remove First and Last Character](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/8kyu/Remove%20First%20and%20Last%20Character/remove-first-last-char.php)
+- [x] [Return Negative](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/8kyu/Return%20Negative/return-negative.php)
+- [x] [Reversed Strings](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/8kyu/Reversed%20Strings/reversed-string.php)
+- [x] [Square Sum](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/8kyu/Square%20Sum/square-sum.php)
+- [x] [String repeat](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/8kyu/String%20repeat/string-repeat.php)
+- [x] [Sum of positive](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/8kyu/Sum%20of%20positive/sum-of-positive.php)
 
 ## Leetcode
 
