@@ -13,6 +13,7 @@ Leetcode and Codewars tasks
 
 - [x] [Descending Order](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/7kyu/Descending%20Order/descending-order.php)
 - [x] [Disemvowel Trolls](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/7kyu/Disemvowel%20Trolls/disemvowel-trolls.php)
+- [x] [Get the Middle Character]()
 - [x] [Highest and Lowest](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/7kyu/Highest%20and%20Lowest/highest-and-lowest.php)
 - [x] [Square Every Digit](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/7kyu/Square%20Every%20Digit/square-every-digit.php)
 - [x] [String Ends With](https://github.com/bipolarbearbringsbeer/LeetCode-CodeWars/blob/main/CodeWars/7kyu/String%20ends%20with/string-ends-with.php)
