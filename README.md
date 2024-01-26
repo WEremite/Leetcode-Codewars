@@ -15,7 +15,7 @@ Leetcode and Codewars tasks
 - [x] [Disemvowel Trolls](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/7kyu/Disemvowel%20Trolls/disemvowel-trolls.php)
 - [x] [Get the Middle Character](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/7kyu/Get%20the%20Middle%20Character/get-the-middle-character.php)
 - [x] [Highest and Lowest](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/7kyu/Highest%20and%20Lowest/highest-and-lowest.php)
-- [x] [Mumbling]()
+- [x] [Mumbling](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/7kyu/Mumbling/mumbling.php)
 - [x] [Square Every Digit](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/7kyu/Square%20Every%20Digit/square-every-digit.php)
 - [x] [String Ends With](https://github.com/bipolarbearbringsbeer/LeetCode-CodeWars/blob/main/CodeWars/7kyu/String%20ends%20with/string-ends-with.php)
 - [x] [Vowel Count](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/7kyu/Vowel%20Count/vowel-count.php)
