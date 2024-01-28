@@ -19,7 +19,7 @@ Leetcode and Codewars tasks
 - [x] [Square Every Digit](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/7kyu/Square%20Every%20Digit/square-every-digit.php)
 - [x] [String Ends With](https://github.com/bipolarbearbringsbeer/LeetCode-CodeWars/blob/main/CodeWars/7kyu/String%20ends%20with/string-ends-with.php)
 - [x] [Vowel Count](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/7kyu/Vowel%20Count/vowel-count.php)
-- [x] [You are square]()
+- [x] [You are square](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/7kyu/You%20are%20square/you-are-square.php)
 
 ### 8 kyu
 
