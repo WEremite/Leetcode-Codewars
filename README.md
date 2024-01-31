@@ -7,6 +7,7 @@ Leetcode and Codewars tasks
 ### 6 kyu
 
 - [x] [Counting Duplicates](https://github.com/bipolarbearbringsbeer/LeetCode-CodeWars/blob/main/CodeWars/6kyu/Counting%20Duplicates/counting-duplicates.php)
+- [x] [Multiples of 3 or 5]()
 - [x] [Split Strings](https://github.com/bipolarbearbringsbeer/LeetCode-CodeWars/blob/main/CodeWars/6kyu/Split%20Strings/split-strings.php)
 
 ### 7 kyu
