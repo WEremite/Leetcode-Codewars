@@ -6,10 +6,15 @@ Leetcode and Codewars tasks
 
 ### 6 kyu
 
+- [x] [Array diff]()
 - [x] [Counting Duplicates](https://github.com/bipolarbearbringsbeer/LeetCode-CodeWars/blob/main/CodeWars/6kyu/Counting%20Duplicates/counting-duplicates.php)
+- [x] [Create Phone Numbers]()
+- [x] [Find the odd int]()
 - [x] [Multiples of 3 or 5](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/6kyu/Multiples%20of%203%20or%205/multiples-of-3-or-5.php)
 - [x] [Split Strings](https://github.com/bipolarbearbringsbeer/LeetCode-CodeWars/blob/main/CodeWars/6kyu/Split%20Strings/split-strings.php)
 - [x] [Stop gninnipS My sdroW](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/6kyu/Stop%20gninnipS%20My%20sdroW/stop-spinning-words.php)
+- [x] [Sum of Digits]()
+- [x] [Who likes it]()
 
 ### 7 kyu
 
