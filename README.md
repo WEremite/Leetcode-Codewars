@@ -6,15 +6,15 @@ Leetcode and Codewars tasks
 
 ### 6 kyu
 
-- [x] [Array diff]()
+- [x] [Array diff](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/6kyu/Array%20diff/array-diff.php)
 - [x] [Counting Duplicates](https://github.com/bipolarbearbringsbeer/LeetCode-CodeWars/blob/main/CodeWars/6kyu/Counting%20Duplicates/counting-duplicates.php)
-- [x] [Create Phone Numbers]()
-- [x] [Find the odd int]()
+- [x] [Create Phone Numbers](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/6kyu/Create%20Phone%20Number/create-phone-number.php)
+- [x] [Find the odd int](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/6kyu/Find%20the%20odd%20int/find-odd-int.php)
 - [x] [Multiples of 3 or 5](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/6kyu/Multiples%20of%203%20or%205/multiples-of-3-or-5.php)
 - [x] [Split Strings](https://github.com/bipolarbearbringsbeer/LeetCode-CodeWars/blob/main/CodeWars/6kyu/Split%20Strings/split-strings.php)
 - [x] [Stop gninnipS My sdroW](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/6kyu/Stop%20gninnipS%20My%20sdroW/stop-spinning-words.php)
-- [x] [Sum of Digits]()
-- [x] [Who likes it]()
+- [x] [Sum of Digits](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/6kyu/Sum%20of%20Digits/sum-of-digits.php)
+- [x] [Who likes it](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/6kyu/Who%20likes%20it/who-likes-it.php)
 
 ### 7 kyu
 
