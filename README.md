@@ -4,6 +4,10 @@ Leetcode and Codewars tasks
 
 ## Codewars
 
+### 5 kyu
+
+- [x] [Moving Zeros To The End]()
+
 ### 6 kyu
 
 - [x] [Array diff](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/6kyu/Array%20diff/array-diff.php)
