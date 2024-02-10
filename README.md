@@ -6,7 +6,7 @@ Leetcode and Codewars tasks
 
 ### 5 kyu
 
-- [x] [Moving Zeros To The End]()
+- [x] [Moving Zeros To The End](https://github.com/WEremite/Leetcode-Codewars/blob/main/Codewars/5kyu/Moving%20Zeros%20To%20The%20End/moving-zeroes.php)
 
 ### 6 kyu
 
